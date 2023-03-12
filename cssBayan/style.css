@@ -82,8 +82,8 @@ body {
     opacity: 1;
     visibility: visible;
     background-color: black;
-    -webkit-mask: url(./images/plus-solid.svg) no-repeat center;
-    mask: url(./images/plus-solid.svg) no-repeat center;
+    -webkit-mask: url(../images/plus-solid.svg) no-repeat center;
+    mask: url(../images/plus-solid.svg) no-repeat center;
 }
 .element .line .icons .icon-sign_cross {
     display: none;
@@ -92,8 +92,8 @@ body {
     width: 0;
     height: 0;
     background-color: black;
-    -webkit-mask: url(./images/xmark-solid.svg) no-repeat center;
-    mask: url(./images/xmark-solid.svg) no-repeat center;
+    -webkit-mask: url(../images/xmark-solid.svg) no-repeat center;
+    mask: url(../images/xmark-solid.svg) no-repeat center;
 }
 .element .image-container {
     display: grid;
